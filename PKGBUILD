@@ -18,7 +18,7 @@ pkgrel=1
 pkgdesc="Pathlib-compatible object wrapper for zip files"
 _http="https://github.com"
 _ns="jaraco"
-url="${_http}${_ns}/${_pkg}"
+url="${_http}/${_ns}/${_pkg}"
 license=(
   'MIT'
 )
